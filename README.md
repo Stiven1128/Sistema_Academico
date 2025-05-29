@@ -16,5 +16,5 @@ Python 3.13.3
 
 
 ## Autores:
-Jose Stiven Rodas
-Elizabeth Salazar
+- Jose Stiven Rodas
+- Elizabeth Salazar
