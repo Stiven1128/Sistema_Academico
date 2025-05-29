@@ -45,9 +45,9 @@ Dashboard unificado (views/dashboard.py):
 
 - Gráficos de matplotlib integrados con FigureCanvas:
 
--- Evolución de notas por período (líneas temporales).
+   - Evolución de notas por período (líneas temporales).
 
--- Comparativa de rendimiento vs. promedio del grupo.
+   - Comparativa de rendimiento vs. promedio del grupo.
 
 Widgets de PyQt5:
 
