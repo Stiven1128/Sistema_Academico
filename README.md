@@ -43,37 +43,34 @@ Actualización automática:
 3. Visualización Interactiva
 Dashboard unificado (views/dashboard.py):
 
-Gráficos de matplotlib integrados con FigureCanvas:
+- Gráficos de matplotlib integrados con FigureCanvas:
 
-Evolución de notas por período (líneas temporales).
+-- Evolución de notas por período (líneas temporales).
 
-Comparativa de rendimiento vs. promedio del grupo.
+-- Comparativa de rendimiento vs. promedio del grupo.
 
 Widgets de PyQt5:
 
-QProgressBar para mostrar avance en créditos académicos.
+- QProgressBar para mostrar avance en créditos académicos.
 
-QTableWidget con filtros por período/asignatura.
+- QTableWidget con filtros por período/asignatura.
 
 4. Registro de Notas en Tiempo Real
 Interfaz para profesores (views/tabs/notas.py):
 
-Ingreso masivo de notas usando QDoubleSpinBox (validación: rango 0.0-5.0).
+- Ingreso masivo de notas usando QDoubleSpinBox (validación: rango 0.0-5.0).
 
-Asignación automática a la estructura de datos del estudiante (árbol o heap).
+- Asignación automática a la estructura de datos del estudiante (árbol o heap).
 
-Notificaciones:
-
-Alerta visual (QBrush + QColor) si una nota genera reprobación.
 
 5. Acceso Estudiantil Autogestionado
 Panel personalizado (views/tabs/estudiantes.py):
 
-Visualización de todas las notas históricas apiladas en su estructura asignada.
+- Visualización de todas las notas históricas apiladas en su estructura asignada.
 
-Filtrado por período con QComboBox.
+- Filtrado por período con QComboBox.
 
-Exportación de reportes (PDF o CSV).
+- Exportación de reportes (PDF o CSV).
 
 
 
