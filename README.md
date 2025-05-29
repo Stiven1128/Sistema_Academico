@@ -4,8 +4,8 @@ Una escuela tiene problemas  para  sistematizar  y calcular los promedios de  no
 
 ## Solución:
  Crear un sistema  para  calcular promedios en línea  de notas   de estudiantes periodo a periodo , es  decir   aprueba o reprueba. y que cada estudiante  las  pueda ver  para  ver en linea. Con el fin de ordenar  , registrar y recopilar  periodo  a periodo  las  notas apilando la información  en una estructura de  datos.  
--(cada estudiante  tendría su árbol o  estructura de  datos) 
--Utilizando  colas  de  prioridad , árboles de decisión o heap, según lo   visto en clase.
+- (cada estudiante  tendría su árbol o  estructura de  datos) 
+- Utilizando  colas  de  prioridad , árboles de decisión o heap, según lo   visto en clase.
 
 
 ## Funcionalidades Clave del Sistema Académico
